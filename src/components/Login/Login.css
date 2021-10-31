@@ -1,0 +1,21 @@
+.login-wrapper {
+  padding: 80px 0;
+}
+.login-content {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 40px;
+}
+.google-btn {
+  background-color: #0dcdc2;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  border: none;
+  padding: 12px 30px;
+}
+
+@media only screen and (max-width: 767px) {
+  .login-wrapper {
+    padding: 140px 20px;
+  }
+}

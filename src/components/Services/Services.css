@@ -1,0 +1,33 @@
+.services-wrapper h2 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #0dcdc2;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.services-wrapper .description {
+  font-size: 18px;
+  font-weight: 600;
+  color: #0dcdc2;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.services-wrapper-top {
+  padding: 80px 0;
+  background-image: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    url(https://i.ibb.co/FzTtfRv/waterfall-on-korana-river-canyon-in-village-of-ras-small.jpg);
+}
+
+.book-btn {
+  padding: 10px 25px;
+  background-color: #0dcdc2;
+  color: white;
+  font-size: 18px;
+  border: none;
+}

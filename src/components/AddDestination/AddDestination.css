@@ -1,0 +1,16 @@
+.add-service-wrapper {
+  text-align: center;
+  padding: 130px 0;
+}
+.add-service-wrapper form {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.add-service-wrapper form input {
+  width: 50%;
+  margin: 10px 0;
+  padding: 10px;
+}
